@@ -7,11 +7,11 @@ div_formulario.className = "div-formularios";
 //Lista de textos 
 let formularios = [
     {nombre:"Login", link:"componentes/login/login.html"},
-    {nombre:"De Contacto", link:"#"},
-    {nombre:"De Registro", link:"#"},
-    {nombre:"De Búsqueda", link:"#"},
-    {nombre:"De Pedido Compras", link:"#"},
-    {nombre:"De Comentarios Reseñas", link:"#"},
+    {nombre:"De Contacto", link:"componentes/DeContacto/DeContacto.html"},
+    {nombre:"De Registro", link:"componentes/DeRegistro/DeRegistro.html"},
+    {nombre:"De Búsqueda", link:"componentes/DeBusqueda/DeBusqueda.html"},
+    {nombre:"De Pedido Compras", link:"componentes/DePedidoCompras/DePedidoCompras.html"},
+    {nombre:"De Comentarios Reseñas", link:"componentes/DeComentariosReseña/DeComentariosReseña.html"},
 ];
 
 
