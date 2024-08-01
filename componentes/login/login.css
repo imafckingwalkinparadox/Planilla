@@ -49,10 +49,11 @@
 .section-H .boton-X {
     width: 20rem;
     grid-column: 5/8;
-    border: 1px solid black;
     height: 3rem;
     background-color: rgb(41, 61, 55);
     color: white;
+    border-radius: 5px;
+
     display: flex;
     align-items: center;
     justify-content: center;
@@ -129,4 +130,11 @@
 
 .term {
     color: blue;
+}
+
+.banner img {
+    height: 59.8rem;
+    width: 100%;
+
+    object-fit: cover;
 }
