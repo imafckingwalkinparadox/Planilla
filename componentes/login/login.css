@@ -133,7 +133,8 @@
 }
 
 .banner img {
-    width: 100%;
     height: 59.8rem;
+    width: 100%;
+
     object-fit: cover;
 }
